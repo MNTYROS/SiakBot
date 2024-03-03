@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vXGGoJsrz0EglOB7VzL50ZFR/L9AwWmnMbT88euU4OanvZAdQoetlYwo2TxvGs1vuKeE5zMtrx7pTlCOFVZ4MA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Documents\\Programming\\SiakBot\\SiakBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\selenium.webdriver\\4.18.1\\selenium.webdriver.4.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
